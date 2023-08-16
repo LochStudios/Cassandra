@@ -74,7 +74,7 @@ if ($handle = opendir('/var/www/html/download')) {
         </div>
         <ul class="nav navbar-nav">
             <li class="active"><a href="files.php">Files</a></li>
-            <li><a href="logout.php">Logout</a></li>
+            <li class="active"><a href="logout.php">Logout</a></li>
         </ul>
         <p class="navbar-text navbar-right">LochSRV. All rights reserved.</p>
     </div>
